@@ -1,0 +1,10 @@
+.footercont{
+    background-color: black;
+    color: white;
+    height: 8vh;
+}
+.footer{
+    position: relative;
+    top: 9vh;
+    font-size: 45px;
+}

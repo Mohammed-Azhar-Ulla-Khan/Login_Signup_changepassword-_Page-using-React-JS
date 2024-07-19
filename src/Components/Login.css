@@ -1,0 +1,38 @@
+.logincont{
+    height: 60vh;
+    
+    
+    
+}
+.login-form{
+    position: relative;
+    width: 40vh;
+    left: 90vh;
+    top: 70px;
+    box-shadow: 0px 0px 10px black;
+    
+    border-radius: 10px
+    
+}
+.but{
+    color: white;
+    border-radius: 4px;
+    background-color: black;
+    font-weight: 200;
+    height: 4vh;
+    width: 9vh;
+    padding: 3px;
+
+    
+}
+input{
+    height: 4vh;
+    border: 2px solid black;
+    padding: 3px;
+    margin: 2px;
+    border-radius: 5px;
+}
+label{
+    position: relative;
+    left: -50px;
+}
